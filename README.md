@@ -5,6 +5,7 @@ Technologies are used in this project:
 - Allure;
 - Playwright;
 - Axios;
+- GitHub Actions
 
 The project was implemented with:
 - PageObject design pattern;
