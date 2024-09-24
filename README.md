@@ -1,4 +1,4 @@
-# PlaywrightExample
+# TopClickPlaywright
 
 Technologies are used in this project:
 - JS / TS;
